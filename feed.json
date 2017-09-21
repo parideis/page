@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "denis-paris-portfolio",
+    "description": "",
+    "home_page_url": "https://parideis.github.io",
+    "feed_url": "https://parideis.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Denis Paris"
+    },
+    "items": [
+        {
+            "id": "https://parideis.github.io/feature-post.html",
+            "url": "https://parideis.github.io/feature-post.html",
+            "title": "Feature Post",
+            "content_html": "with a lot of wise words&nbsp;",
+            "author": {
+                "name": "Denis Paris"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-09-21T18:03:05+02:00",
+            "date_modified": "2017-09-21T18:03:05+02:00"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>denis-paris-portfolio</title>
+    <link href="https://parideis.github.io/feed.xml" rel="self" />
+    <link href="https://parideis.github.io" />
+    <updated>2017-09-21T18:13:01+02:00</updated>
+    <author>
+        <name>Denis Paris</name>
+    </author>
+    <id>https://parideis.github.io</id>
+
+    <entry>
+        <title>Feature Post</title>
+        <author>
+            <name>Denis Paris</name>
+        </author>
+        <link href="https://parideis.github.io/feature-post.html"/>
+        <id>https://parideis.github.io/feature-post.html</id>
+
+        <updated>2017-09-21T18:03:05+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                with a lot of wise words&nbsp;
+            ]]>
+        </content>
+    </entry>
+</feed>
